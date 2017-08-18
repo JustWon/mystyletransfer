@@ -8,5 +8,5 @@ https://arxiv.org/pdf/1508.06576.pdf
 ![Alt text](content.png?raw=true "Content")  
 ### Style image:  
 ![Alt text](style.jpg?raw=true "Style")  
-### Style Transfer Process:  
+### Style Transfer Process:   
 ![Alt text](stylenet.gif?raw=true "Style Transfer Process")  
