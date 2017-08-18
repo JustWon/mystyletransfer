@@ -4,9 +4,9 @@ Transfer the style of a painting / artistic creation to the content of an image.
 Code on Style-Net on TensorFlow.ipynb
 Based on:  
 https://arxiv.org/pdf/1508.06576.pdf  
+### Style Transfer Process:   
+![Alt text](stylenet_gif.gif?raw=true "Style Transfer Process")  
 ### Content image:  
 ![Alt text](content_small.png?raw=true "Content")  
 ### Style image:  
 ![Alt text](style.jpg?raw=true "Style")  
-### Style Transfer Process:   
-![Alt text](stylenet_gif.gif?raw=true "Style Transfer Process")  
