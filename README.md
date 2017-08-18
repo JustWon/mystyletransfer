@@ -9,4 +9,4 @@ https://arxiv.org/pdf/1508.06576.pdf
 ### Style image:  
 ![Alt text](style.jpg?raw=true "Style")  
 ### Style Transfer Process:   
-![Alt text](stylenet.gif?raw=true "Style Transfer Process")  
+![Alt text](stylenet_gif.gif?raw=true "Style Transfer Process")  
