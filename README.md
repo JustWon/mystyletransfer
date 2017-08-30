@@ -9,4 +9,4 @@ Based on: https://arxiv.org/pdf/1508.06576.pdf
 ![Alt text](content_small.png?raw=true "Content")  
 ### Style image:  
 ![Alt text](style.jpg?raw=true "Style")  
-*libs folder contains code from Parag K Mital's CADL (https://github.com/pkmital/CADL)
+*libs folder contains code from Parag K Mital's CADL (https://github.com/pkmital/CADL)*
